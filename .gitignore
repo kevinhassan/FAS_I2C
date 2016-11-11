@@ -1,2 +1,6 @@
 ./allumerLed
 ./*o
+./grovepi_led
+./grovepi_buzzer
+./grovepi_sound
+./grovepi_ultrasonic
